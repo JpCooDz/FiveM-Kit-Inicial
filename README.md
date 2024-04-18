@@ -10,7 +10,7 @@ Este código implementa um kit inicial para servidores da Academy no FiveM. Cada
 
 ## Como Usar
 
-<p>1. Adicione o código ao seu servidor FiveM ( COLOCAR NO ARQUIVO SERVER.LUA NA PASTA VRP_PLAYER ).</p>
+<p>1. Abra o arquivo kitinicial.lua, copie o código e adicione-o ao seu servidor FiveM (coloque no arquivo server.lua na pasta vrp_player)..</p>
 <p>2. Configure o código de acordo com suas necessidades.</p>
 <p>3. Certifique-se de ter a permissão necessária para executar o comando `kit`.</p>
 <p>4. Os jogadores podem resgatar o kit inicial digitando "kit" no chat e confirmando com "sim".</p>
